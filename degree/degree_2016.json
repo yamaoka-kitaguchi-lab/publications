@@ -1,0 +1,42 @@
+[
+  {
+    "degree": {"ja": "学士", "en": "bachelor"},
+    "thesis": [
+      {
+        "title": {"ja": "許容発信試行回数の導入による非常時の通信収容効率向上効果", "en": ""},
+        "name": {"ja": "加田 匠", "en": "Takumi KADA"},
+        "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+        "pdf": "http://www1.intra.net.ict.e.titech.ac.jp/2016/hogehoge.pdf"
+      },
+      {
+        "title": {"ja": "再送時間を考慮したキャッシュ置換アルゴリズム", "en": ""},
+        "name": {"ja": "立花 誠人", "en": "Masato TACHIBANA"},
+        "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+        "pdf": "http://www1.intra.net.ict.e.titech.ac.jp/2016/hogehoge.pdf"
+      },
+      {
+        "title": {"ja": "HARQにおける遅延抑制のための最適最大再送回数設定法", "en": ""},
+        "name": {"ja": "樋田 有記", "en": "Yuki HIDA"},
+        "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+        "pdf": "http://www1.intra.net.ict.e.titech.ac.jp/2016/hogehoge.pdf"
+      },
+      {
+        "title": {"ja": "SDN網における未知障害発生時の代替経路高速発見方式", "en": ""},
+        "name": {"ja": "松浦 匠", "en": "Takumi MATSUURA"},
+        "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+        "pdf": "http://www1.intra.net.ict.e.titech.ac.jp/2016/hogehoge.pdf"
+      }
+    ]
+  },
+  {
+    "degree": {"ja": "修士", "en": "master"},
+    "thesis": [
+      {
+        "title": {"ja": "WRR重み配分法における破棄フロー選択方式", "en": ""},
+        "name": {"ja": "野田 翔", "en": "Sho NODA"},
+        "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+        "pdf": "http://www1.intra.net.ict.e.titech.ac.jp/2016/hogehoge.pdf"
+      }
+    ]
+  }
+]
