@@ -1,0 +1,59 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "pp": {"ja": "ページ", "en": "Page"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "18201",
+      "name": {"ja": "村上 亮太", "en": "Ryota Murakami"},
+      "title": {"ja": "", "en": "VoIP Admission Control to Increase QoS-Guaranteed Sessions by Considering State Probability"},
+      "conference": {"ja": "PIMRC2018", "en": "PIMRC2018"},
+      "coresearcher": [
+        {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Bologna, Italy", "en": "Bologna, Italy"},
+      "pp": "",
+      "date": {"ja": "2018年9月11日", "en": ""},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18201/"
+    },
+    {
+      "id": "18202",
+      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "title": {"ja": "", "en": "Why File Delivery Order Change is Not Necessary at an Intermediate Node"},
+      "conference": {"ja": "CCNC2019", "en": "CCNC2019"},
+      "coresearcher": [
+        {"ja": "菅原真司", "en": "Shinji Sugawara"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Las Vegas, US", "en": "Las Vegas, US"},
+      "pp": "",
+      "date": {"ja": "2019年1月12日", "en": ""},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18202/"
+    },
+    {
+      "id": "18203",
+      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
+      "title": {"ja": "", "en": "The Upper Limit of Flow Accommodation under Allowable Delay Constraint in HANETs"},
+      "conference": {"ja": "CCNC2019", "en": "CCNC2019"},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Las Vegas, US", "en": "Las Vegas, US"},
+      "pp": "",
+      "date": {"ja": "2019年1月13日", "en": ""},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18203/"
+    }
+  ]
+}

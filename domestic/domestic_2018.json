@@ -1,0 +1,135 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "18101",
+      "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin Intharawijitr"},
+      "title": {"ja": "A Study of Fog Failure on IoT Application by Various Numbers of Fog Nodes", "en": "A Study of Fog Failure on IoT Application by Various Numbers of Fog Nodes"},
+      "conference": {"ja": "IEICE ソサイエティ大会", "en": ""},
+      "coresearcher": [
+        {"ja": "KDDI研究所", "en": ""},
+        {"ja": "飯田 勝吉", "en": "Katsuyoshi Iida"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "金沢大学 角間キャンパス", "en": ""},
+      "date": {"ja": "2018年9月", "en": "Sep., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18101/"
+    },
+    {
+      "id": "18102",
+      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "title": {"ja": "ファイルサイズ可変により生じるファイル配送スケジューリングの複雑性", "en": ""},
+      "conference": {"ja": "IEICE ソサイエティ大会", "en": ""},
+      "coresearcher": [
+        {"ja": "菅原 真司", "en": "Shinji Sugawara"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "金沢大学 角間キャンパス", "en": ""},
+      "date": {"ja": "2018年9月", "en": "Sep., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18102/"
+    },
+    {
+      "id": "18103",
+      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
+      "title": {"ja": "自律クラスタ群における許容遅延に基づくGW最適配置の一考察", "en": ""},
+      "conference": {"ja": "IEICE ソサイエティ大会", "en": ""},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "金沢大学 角間キャンパス", "en": ""},
+      "date": {"ja": "2018年9月", "en": "Sep., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18103/"
+    },
+    {
+      "id": "18104",
+      "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin Intharawijitr"},
+      "title": {"ja": "Improvement of computing latency estimation in orchestrator of MEC using statistical analysis", "en": "Improvement of computing latency estimation in orchestrator of MEC using statistical analysis"},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "飯田 勝吉", "en": "Katsuyoshi Iida"},
+        {"ja": "KDDI研究所", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄コンベンションセンター", "en": ""},
+      "date": {"ja": "2019年3月4日", "en": "Mar. 4, 2019"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18104/"
+    },
+    {
+      "id": "18105",
+      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "title": {"ja": "2リンクモデルでのファイルサイズ可変環境下におけるHBH最適ファイル配送スケジューリング", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "菅原 真司", "en": "Shinji Sugawara"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄コンベンションセンター", "en": ""},
+      "date": {"ja": "2019年3月4日", "en": "Mar. 4, 2019"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18105/"
+    },
+    {
+      "id": "18106",
+      "name": {"ja": "松浦 匠", "en": "Takumi Matsuura"},
+      "title": {"ja": "SDN網未知障害発生時の故障確率利用による効率的代替経路発見手法", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄コンベンションセンター", "en": ""},
+      "date": {"ja": "2019年3月5日", "en": "Mar. 5, 2019"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18106/"
+    },
+    {
+      "id": "18107",
+      "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
+      "title": {"ja": "リンク切断を考慮したHANETsにおける許容遅延制約下のGW最適配置", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄コンベンションセンター", "en": ""},
+      "date": {"ja": "2019年3月5日", "en": "Mar. 5, 2019"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18107/"
+    },
+    {
+      "id": "18108",
+      "name": {"ja": "仲宗根 一成", "en": "Issei Nakasone"},
+      "title": {"ja": "機械学習を用いたDNSクエリ/応答のログ解析による悪性端末検出手法の提案", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄コンベンションセンター", "en": ""},
+      "date": {"ja": "2019年3月5日", "en": "Mar. 5, 2019"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18108/"
+    },
+    {
+      "id": "18109",
+      "name": {"ja": "澤田 一樹", "en": "Kazuki Sawada"},
+      "title": {"ja": "高速Web配信のためのコネクション集約とクロスオリジンサーバプッシュの実現", "en": ""},
+      "conference": {"ja": "IPSJ インターネットと運用技術研究会", "en": "IPSJ SIG IOT"},
+      "coresearcher": [
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"}
+      ],
+      "location": {"ja": "ホテルグランドエクシブ鳴門＆ザ・ロッジ", "en": ""},
+      "date": {"ja": "2019年3月7日", "en": "Mar. 7, 2019"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18109/"
+    }
+  ]
+}

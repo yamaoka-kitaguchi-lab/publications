@@ -1,0 +1,14 @@
+{
+  "label": {
+    "degree": {"ja": "学位論文", "en": "Thesis"},
+    "domestic": {"ja": "国内学会", "en": "Domestic"},
+    "international": {"ja": "国際学会", "en": "International"},
+    "journal": {"ja": "論文誌", "en": "Journal"}
+  },
+  "publications": {
+    "degree": [2017, 2016],
+    "domestic": [2018, 2017],
+    "international": [2018, 2017],
+    "journal": [2018, 2017]
+  }
+}

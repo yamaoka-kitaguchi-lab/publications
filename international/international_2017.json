@@ -1,0 +1,102 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "pp": {"ja": "ページ", "en": "Page"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "17201",
+      "name": {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+      "title": {"ja": "", "en": "An optimal resource assignment for C/D-plane virtualized mobile core networks"},
+      "conference": {"ja": "ICC2017", "en": "ICC2017"},
+      "coresearcher": [
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Paris, France", "en": "Paris, France"},
+      "pp": "",
+      "date": {"ja": "2017年5月21日", "en": ""},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17201/"
+    },
+    {
+      "id": "17202",
+      "name": {"ja": "小杉山 拓弥", "en": "Takuya Kosugiyama"},
+      "title": {"ja": "", "en": "A flow aggregation method based on end-to-end delay in SDN"},
+      "conference": {"ja": "ICC2017", "en": "ICC2017"},
+      "coresearcher": [
+        {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Paris, France", "en": "Paris, France"},
+      "pp": "",
+      "date": {"ja": "2017年5月21日", "en": ""},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17202/"
+    },
+    {
+      "id": "17203",
+      "name": {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+      "title": {"ja": "", "en": "A study on resource granularity of vEPC optimal resource assignment"},
+      "conference": {"ja": "IWQoS2017", "en": "IWQoS2017"},
+      "coresearcher": [
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Vilanova i la Geltrú, Spain", "en": "Vilanova i la Geltrú, Spain"},
+      "pp": "",
+      "date": {"ja": "2017年6月14日", "en": ""},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17203/"
+    },
+    {
+      "id": "17204",
+      "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin Intharawijitr"},
+      "title": {"ja": "", "en": "Practical Enhancement and Evaluation of a Low-Latency Network Model Using Mobile Edge Computing"},
+      "conference": {"ja": "COMPSAC2017", "en": "COMPSAC2017"},
+      "coresearcher": [
+        {"ja": "飯田 勝吉", "en": "Katsuyoshi Iida"},
+        {"ja": "KDDI研究所", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Turin, Italy", "en": "Turin, Italy"},
+      "pp": "",
+      "date": {"ja": "2017年7月4日", "en": ""},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17204/"
+    },
+    {
+      "id": "17205",
+      "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin Intharawijitr"},
+      "title": {"ja": "", "en": "Implementation and preliminary evaluation of low-latency network architecture"},
+      "conference": {"ja": "IEICE IA2017", "en": "IEICE IA2017"},
+      "coresearcher": [
+        {"ja": "飯田 勝吉", "en": "Katsuyoshi Iida"},
+        {"ja": "KDDI研究所", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Bangkok, Thailand", "en": "Bangkok, Thailand"},
+      "pp": "",
+      "date": {"ja": "2017年11月15日", "en": ""},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17205/"
+    },
+    {
+      "id": "17206",
+      "name": {"ja": "松浦 匠", "en": "Takumi Matsuura"},
+      "title": {"ja": "", "en": "Fast Detection of Alternative Route under Unknown Failure on SDN Network"},
+      "conference": {"ja": "GLOBECOM2017", "en": "GLOBECOM2017"},
+      "coresearcher": [
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Singapore", "en": "Singapore"},
+      "pp": "",
+      "date": {"ja": "2017年12月4日", "en": ""},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17206/"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+language: python
+python:
+  - 3.6
+branches:
+  only:
+    - master
+install:
+  - pip install jsonschema
+before_script:
+  - cd test
+script:
+  - python3 validator.py

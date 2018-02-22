@@ -1,0 +1,76 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "degree": {"ja": "学位", "en": "Degree"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "supervisor": {"ja": "指導教員", "en": "Supervior"},
+    "previous": {"ja": "先行研究者", "en": "Previous Researcher"},
+    "tag": {"ja": "タグ", "en": "Tag"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "16001",
+      "degree": {"ja": "修士", "en": "Master"},
+      "name": {"ja": "野田 翔", "en": "Sho NODA"},
+      "title": {"ja": "WRR重み配分法における破棄フロー選択方式", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "基礎検討", "en": "Basic study"},
+        {"ja": "受付制御", "en": "Admission control"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16001/"
+    },
+    {
+      "id": "16002",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "加田 匠", "en": "Takumi KADA"},
+      "title": {"ja": "許容発信試行回数の導入による非常時の通信収容効率向上効果", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "田辺 和輝", "en": "Kazuki TANABE"},
+      "tag": [
+        {"ja": "受付制御", "en": "Admission control"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16002/"
+    },
+    {
+      "id": "16003",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "立花 誠人", "en": "Masato TACHIBANA"},
+      "title": {"ja": "再送時間を考慮したキャッシュ置換アルゴリズム", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "キャッシュ", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16003/"
+    },
+    {
+      "id": "16004",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "樋田 有記", "en": "Yuki HIDA"},
+      "title": {"ja": "HARQにおける遅延抑制のための最適最大再送回数設定法", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "基礎検討", "en": "Basic study"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16004/"
+    },
+    {
+      "id": "16005",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "松浦 匠", "en": "Takumi MATSUURA"},
+      "title": {"ja": "SDN網における未知障害発生時の代替経路高速発見方式", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "SDN", "en": "SDN"},
+        {"ja": "経路制御", "en": "Routing"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16005/"
+    }
+  ]
+}

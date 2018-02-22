@@ -1,3 +1,3 @@
 # 研究室の業績
 
-このリポジトリのJSONファイルは https://yamaoka-kitaguchi-lab.github.io/publications からJavaScript経由で参照されます．
+このリポジトリのJSONファイルは https://www.net.ict.e.titech.ac.jp/publications/ からJavaScript経由で参照されます．

@@ -1,0 +1,136 @@
+{
+  "type": "object",
+  "properties": {
+    "label": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "degree": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "name": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "title": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "supervisor": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "previous": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "tag": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "url": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        }
+      },
+      "required": ["id", "degree", "name", "title", "supervisor", "previous", "tag", "url"]
+    },
+    "students": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {"type": "string"},
+          "degree": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "name": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "title": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            }
+          },
+          "supervisor": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "previous": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "tag": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              }
+            }
+          },
+          "url": {"type": "string"}
+        },
+        "required": ["id", "degree", "name", "title", "supervisor", "tag"]
+      }
+    }
+  },
+  "required": ["label"]
+}

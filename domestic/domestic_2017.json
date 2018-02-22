@@ -1,0 +1,157 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "17101",
+      "name": {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+      "title": {"ja": "リソース粒度変動によるvEPC最適リソース割当導出時間削減効果", "en": ""},
+      "conference": {"ja": "IEICE ソサイエティ大会", "en": ""},
+      "coresearcher": [
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京都市大学 世田谷キャンパス", "en": ""},
+      "date": {"ja": "2017年9月", "en": "Sep., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17101/"
+    },
+    {
+      "id": "17102",
+      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "title": {"ja": "2リンクモデルへの拡張を目指したHBH最適ファイル配送方式の基礎検討", "en": ""},
+      "conference": {"ja": "IEICE ソサイエティ大会", "en": ""},
+      "coresearcher": [
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京都市大学 世田谷キャンパス", "en": ""},
+      "date": {"ja": "2017年9月", "en": "Sep., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17102/"
+    },
+    {
+      "id": "17103",
+      "name": {"ja": "岡本 卓也", "en": "Takuya Okamoto"},
+      "title": {"ja": "受信者代弁型情報伝送プロトコルの多重化時におけるブースト効果", "en": ""},
+      "conference": {"ja": "IEICE モバイルネットワークとアプリケーション研究会", "en": "IEICE MoNA"},
+      "coresearcher": [
+        {"ja": "KDDI総合研究所", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "上智大学", "en": ""},
+      "date": {"ja": "2018年2月27日", "en": "Feb. 27, 2018"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17103/"
+    },
+    {
+      "id": "17104",
+      "name": {"ja": "今井 将兵", "en": "Shohei Imai"},
+      "title": {"ja": "実ネットワークにおける人気度変動に伴うコンテンツ再配置方式の動作条件", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "フェニックス・シーガイア・リゾート", "en": ""},
+      "date": {"ja": "2018年3月2日", "en": "Mar. 2, 2018"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17104/"
+    },
+    {
+      "id": "17105",
+      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "title": {"ja": "ファイルサイズ同一環境下におけるHBH最適ファイル配送方式の2リンクモデルへの拡張", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "フェニックス・シーガイア・リゾート", "en": ""},
+      "date": {"ja": "2018年3月2日", "en": "Mar. 2, 2018"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17105/"
+    },
+    {
+      "id": "17106",
+      "name": {"ja": "村上 亮太", "en": "Ryota Murakami"},
+      "title": {"ja": "状態確率を考慮したQoSを満足するVoIP受付制御方式", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "フェニックス・シーガイア・リゾート", "en": ""},
+      "date": {"ja": "2018年3月2日", "en": "Mar. 2, 2018"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17106/"
+    },
+    {
+      "id": "17107",
+      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
+      "title": {"ja": "異種アドホックネットワーク間相互接続環境における最適経路探索手法", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori YAMOAKA"}
+      ],
+      "location": {"ja": "フェニックス・シーガイア・リゾート", "en": ""},
+      "date": {"ja": "2018年3月2日", "en": "Mar. 2, 2018"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17107/"
+    },
+    {
+      "id": "17108",
+      "name": {"ja": "岡本 卓也", "en": "Takuya Okamoto"},
+      "title": {"ja": "受信者代弁型情報伝送プロトコルの多重化時性能限界", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "KDDI総合研究所", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京電機大学 東京千住キャンパス", "en": ""},
+      "date": {"ja": "2018年3月", "en": "Mar., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17108/"
+    },
+    {
+      "id": "17109",
+      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "title": {"ja": "HBH最適ファイル配送方式の中間ノードにおける配送順序変更の可能性", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京電機大学 東京千住キャンパス", "en": ""},
+      "date": {"ja": "2018年3月", "en": "Mar., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17109/"
+    },
+    {
+      "id": "17110",
+      "name": {"ja": "村上 亮太", "en": "Ryota Murakami"},
+      "title": {"ja": "VoIP受付制御における状態確率を考慮したQoSを満足する最大収容数決定法", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京電機大学 東京千住キャンパス", "en": ""},
+      "date": {"ja": "2018年3月", "en": "Mar., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17110/"
+    },
+    {
+      "id": "17111",
+      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
+      "title": {"ja": "ゲートウェイ累積遅延と許容遅延を考慮したフロー収容数の最大化", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京電機大学 東京千住キャンパス", "en": ""},
+      "date": {"ja": "2018年3月", "en": "Mar., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17111/"
+    }
+  ]
+}

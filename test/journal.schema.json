@@ -1,0 +1,147 @@
+{
+  "type": "object",
+  "properties": {
+    "label": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "name": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "title": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "journal": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "coresearcher": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "vol": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "no": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "pp": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "date": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        },
+        "url": {
+          "type": "object",
+          "properties": {
+            "ja": {"type": "string"},
+            "en": {"type": "string"}
+          },
+          "required": ["ja", "en"]
+        }
+      },
+      "required": ["id", "name", "title", "journal", "coresearcher", "date", "url"]
+    },
+    "students": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {"type": "string"},
+          "name": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "title": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "journal": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            }
+          },
+          "coresearcher": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              }
+            }
+          },
+          "vol": {"type": "string"},
+          "no": {"type": "string"},
+          "pp": {"type": "string"},
+          "date": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "url": {"type": "string"}
+        },
+        "required": ["id", "name", "title", "journal", "date"]
+      }
+    }
+  },
+  "required": ["label"]
+}

@@ -1,0 +1,76 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "degree": {"ja": "学位", "en": "Degree"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "supervisor": {"ja": "指導教員", "en": "Supervior"},
+    "previous": {"ja": "先行研究者", "en": "Previous Research"},
+    "tag": {"ja": "タグ", "en": "Tag"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "17001",
+      "degree": {"ja": "修士", "en": "Master"},
+      "name": {"ja": "今井 将兵", "en": "Shohei Imai"},
+      "title": {"ja": "人気度変動を考慮したコンテンツ再配置方式", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "小原 遼平", "en": "Ryohei OBARA"},
+      "tag": [
+        {"ja": "CDN", "en": "CDN"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17001/"
+    },
+    {
+      "id": "17002",
+      "degree": {"ja": "修士", "en": "Master"},
+      "name": {"ja": "岡本 卓也", "en": "Takuya OKAMOTO"},
+      "title": {"ja": "Multiplexing Method of a Communications Protocol by Using Backward Links", "en": "Multiplexing Method of a Communications Protocol by Using Backward Links"},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "基礎検討", "en": "Basic study"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17002/"
+    },
+    {
+      "id": "17003",
+      "degree": {"ja": "修士", "en": "Master"},
+      "name": {"ja": "小杉山 拓弥", "en": "Takuya KOSUGIYAMA"},
+      "title": {"ja": "Reduction of Number of Control Rules by Flow Aggregation under Allowable Delay Limitation in SDN", "en": "Reduction of Number of Control Rules by Flow Aggregation under Allowable Delay Limitation in SDN"},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "SDN", "en": "SDN"},
+        {"ja": "経路制御", "en": "Routing"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17003/"
+    },
+    {
+      "id": "17004",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
+      "title": {"ja": "異種アドホックネットワーク間相互接続環境における最適経路探索手法", "en": "An Optimal Routing Algorithm for Interconnection of Heterogeneous Ad-hoc Networks"},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "アドホックネットワーク", "en": "Ad-hoc network"},
+        {"ja": "経路制御", "en": "Routing"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17004/"
+    },
+    {
+      "id": "17005",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "渡邊 泰平", "en": "Taihei WATANABE"},
+      "title": {"ja": "遅延内処理数最大化WRR重み配分法の実環境における適用可能性の検討", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "野田 翔", "en": "Sho NODA"},
+      "tag": [
+        {"ja": "シミュレーション評価", "en": "Simulation evaluation"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17005/"
+    }
+  ]
+}
