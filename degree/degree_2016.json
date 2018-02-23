@@ -1,6 +1,12 @@
 [
   {
     "degree": {"ja": "学士", "en": "bachelor"},
+    "label": {
+      "title": {"ja": "題目", "en": "Title"},
+      "name": {"ja": "名前", "en": "Name"},
+      "supervisor": {"ja": "指導教員", "en": "Supervior"},
+      "pdf": {"ja": "論文PDF", "en": "PDF"}
+    },
     "thesis": [
       {
         "title": {"ja": "許容発信試行回数の導入による非常時の通信収容効率向上効果", "en": ""},
@@ -30,6 +36,12 @@
   },
   {
     "degree": {"ja": "修士", "en": "master"},
+    "label": {
+      "title": {"ja": "題目", "en": "Title"},
+      "name": {"ja": "名前", "en": "Name"},
+      "supervisor": {"ja": "指導教員", "en": "Supervior"},
+      "pdf": {"ja": "論文PDF", "en": "PDF"}
+    },
     "thesis": [
       {
         "title": {"ja": "WRR重み配分法における破棄フロー選択方式", "en": ""},
