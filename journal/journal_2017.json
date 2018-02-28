@@ -1,0 +1,47 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "journal": {"ja": "論文誌名", "en": "Journal"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "vol": {"ja": "ボリューム", "en": "Volume"},
+    "no": {"ja": "ナンバー", "en": "No"},
+    "pp": {"ja": "ページ", "en": "Page"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "17300",
+      "name": {"ja": "小杉山 拓弥", "en": "Takuya Kosugiyama"},
+      "title": {"ja": "", "en": "IEICE Transactions on Communications"},
+      "journal": {"ja": "", "en": ""},
+      "coresearcher": [
+        {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+        {"ja": "中山 裕貴", "en": "H. Nakayama"},
+        {"ja": "林 經正", "en": "T. Hayashi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "vol": "E101-B",
+      "no": "3",
+      "pp": "",
+      "date": {"ja": "2018年3月", "en": "Mar, 2018"},
+      "url": ""
+    },
+    {
+      "id": "",
+      "name": {"ja": "", "en": ""},
+      "title": {"ja": "", "en": ""},
+      "journal": {"ja": "", "en": ""},
+      "coresearcher": [
+        {"ja": "", "en": ""}
+      ],
+      "vol": "",
+      "no": "",
+      "pp": "",
+      "date": {"ja": "", "en": ""},
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "role": {
+        "type": "object",
+        "properties": {
+          "ja": {"type": "string"},
+          "en": {"type": "string"}
+        },
+        "required": ["ja", "en"]
+      },
+      "label": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "grade": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "account": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "room": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          },
+          "url": {
+            "type": "object",
+            "properties": {
+              "ja": {"type": "string"},
+              "en": {"type": "string"}
+            },
+            "required": ["ja", "en"]
+          }
+        },
+        "required": ["name", "grade", "account", "room", "url"]
+      },
+      "members": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "name": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              },
+              "required": ["ja", "en"]
+            },
+            "grade": {
+              "type": "object",
+              "properties": {
+                "ja": {"type": "string"},
+                "en": {"type": "string"}
+              },
+              "required": ["ja", "en"]
+            },
+            "account": {"type": "string"},
+            "room": {"type": "string"},
+            "url": {"type": "string"}
+          },
+          "required": ["name", "grade", "account"]
+        }
+      }
+    },
+    "required": ["role", "members"]
+  }
+}

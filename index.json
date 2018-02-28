@@ -5,5 +5,8 @@
     "international": {"ja": "国際学会", "en": "International Conference"},
     "journal": {"ja": "論文誌", "en": "Journal"}
   },
-  "degree": [2016]
+  "degree": [2017, 2016],
+  "domestic": [2017],
+  "international": [2017],
+  "journal": [2017]
 }
