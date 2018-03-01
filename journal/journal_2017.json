@@ -15,8 +15,8 @@
     {
       "id": "17300",
       "name": {"ja": "小杉山 拓弥", "en": "Takuya Kosugiyama"},
-      "title": {"ja": "", "en": "IEICE Transactions on Communications"},
-      "journal": {"ja": "", "en": ""},
+      "title": {"ja": "", "en": "A Flow Aggregation Method under Allowable Delay Limitation in SDN"},
+      "journal": {"ja": "", "en": "IEICE Transactions on Communications"},
       "coresearcher": [
         {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
         {"ja": "中山 裕貴", "en": "H. Nakayama"},
@@ -27,20 +27,6 @@
       "no": "3",
       "pp": "",
       "date": {"ja": "2018年3月", "en": "Mar, 2018"},
-      "url": ""
-    },
-    {
-      "id": "",
-      "name": {"ja": "", "en": ""},
-      "title": {"ja": "", "en": ""},
-      "journal": {"ja": "", "en": ""},
-      "coresearcher": [
-        {"ja": "", "en": ""}
-      ],
-      "vol": "",
-      "no": "",
-      "pp": "",
-      "date": {"ja": "", "en": ""},
       "url": ""
     }
   ]
