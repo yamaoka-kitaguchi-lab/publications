@@ -16,7 +16,7 @@
       "id": "17300",
       "name": {"ja": "小杉山 拓弥", "en": "Takuya KOSUGIYAMA"},
       "title": {"ja": "", "en": "A Flow Aggregation Method under Allowable Delay Limitation in SDN"},
-      "journal": {"ja": "", "en": "IEICE Transactions on Communications"},
+      "journal": {"ja": "IEICE Transactions on Communications", "en": "IEICE Transactions on Communications"},
       "coresearcher": [
         {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
         {"ja": "ボスコ・テクノロジーズ", "en": ""},
