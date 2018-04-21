@@ -15,7 +15,7 @@
       "id": "17200",
       "name": {"ja": "松浦 匠", "en": "Takumi MATSUURA"},
       "title": {"ja": "", "en": "Fast Detection of Alternative Route under Unknown Failure on SDN Network"},
-      "conference": {"ja": "", "en": "GLOBECOM2017 CQRM"},
+      "conference": {"ja": "GLOBECOM2017 CQRM", "en": "GLOBECOM2017 CQRM"},
       "coresearcher": [
         {"ja": "ボスコ・テクノロジーズ", "en": ""},
         {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"}
