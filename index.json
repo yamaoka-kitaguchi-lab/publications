@@ -1,8 +1,8 @@
 {
   "label": {
     "degree": {"ja": "学位論文", "en": "Thesis"},
-    "domestic": {"ja": "国内学会", "en": "Domestic Conference"},
-    "international": {"ja": "国際学会", "en": "International Conference"},
+    "domestic": {"ja": "国内学会", "en": "Domestic"},
+    "international": {"ja": "国際学会", "en": "International"},
     "journal": {"ja": "論文誌", "en": "Journal"}
   },
   "publications": {
