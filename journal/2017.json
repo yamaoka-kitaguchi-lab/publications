@@ -14,20 +14,19 @@
   "students": [
     {
       "id": "17300",
-      "name": {"ja": "小杉山 拓弥", "en": "Takuya Kosugiyama"},
+      "name": {"ja": "小杉山 拓弥", "en": "Takuya KOSUGIYAMA"},
       "title": {"ja": "", "en": "A Flow Aggregation Method under Allowable Delay Limitation in SDN"},
       "journal": {"ja": "", "en": "IEICE Transactions on Communications"},
       "coresearcher": [
         {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
-        {"ja": "中山 裕貴", "en": "H. Nakayama"},
-        {"ja": "林 經正", "en": "T. Hayashi"},
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
       "vol": "E101-B",
       "no": "3",
       "pp": "",
       "date": {"ja": "2018年3月", "en": "Mar, 2018"},
-      "url": ""
+      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp"
     }
   ]
 }
