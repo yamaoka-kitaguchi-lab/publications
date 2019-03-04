@@ -53,7 +53,7 @@
     {
       "id": "18104",
       "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
-      "title": {"ja": "	リンク切断を考慮したHANETsにおける許容遅延制約下のGW最適配置", "en": ""},
+      "title": {"ja": "リンク切断を考慮したHANETsにおける許容遅延制約下のGW最適配置", "en": ""},
       "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
       "coresearcher": [
         {"ja": "大島 浩太", "en": "Kohta Ohshima"},
