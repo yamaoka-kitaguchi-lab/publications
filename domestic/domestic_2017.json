@@ -37,8 +37,8 @@
     },
     {
       "id": "17003",
-      "name": {"ja": "ファイルサイズ同一環境下におけるHBH最適ファイル配送方式の2リンクモデルへの拡張", "en": ""},
-      "title": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "title": {"ja": "ファイルサイズ同一環境下におけるHBH最適ファイル配送方式の2リンクモデルへの拡張", "en": ""},
       "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
       "coresearcher": [
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
