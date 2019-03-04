@@ -16,7 +16,7 @@
       "title": {"ja": "受信者代弁型情報伝送プロトコルの多重化時におけるブースト効果", "en": ""},
       "conference": {"ja": "IEICE モバイルネットワークとアプリケーション研究会", "en": "IEICE MoNA"},
       "coresearcher": [
-        {"ja": "KDDI総合研究所", "en": ""}
+        {"ja": "KDDI総合研究所", "en": ""},
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
       "location": {"ja": "上智大学", "en": ""},
@@ -53,8 +53,8 @@
       "title": {"ja": "状態確率を考慮したQoSを満足するVoIP受付制御方式", "en": ""},
       "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
       "coresearcher": [
-        {"ja": "田辺 和輝", "en": "Kazuki Tanabe"}
-        {"ja": "馬場 健一", "en": "Ken-ichi Baba"}
+        {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
       "location": {"ja": "フェニックス・シーガイア・リゾート", "en": ""},
