@@ -11,21 +11,21 @@
   },
   "students": [
     {
-      "id": "17110",
+      "id": "18101",
       "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin Intharawijitr"},
       "title": {"ja": "Improvement of computing latency estimation in orchestrator of MEC using statistical analysis", "en": "Improvement of computing latency estimation in orchestrator of MEC using statistical analysis"},
       "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
       "coresearcher": [
         {"ja": "飯田 勝吉", "en": "Katsuyoshi Iida"},
         {"ja": "古閑 宏幸", "en": "Hiroyuki Koga"},
-        {"ja": "山岡 克式", "en": "Katsunori YAMOAKA"}
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
       "location": {"ja": "沖縄コンベンションセンター", "en": ""},
       "date": {"ja": "2019年3月4日", "en": "Mar. 4, 2019"},
       "url": ""
     },
     {
-      "id": "17111",
+      "id": "18102",
       "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
       "title": {"ja": "2リンクモデルでのファイルサイズ可変環境下におけるHBH最適ファイル配送スケジューリング", "en": ""},
       "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
@@ -38,7 +38,7 @@
       "url": ""
     },
     {
-      "id": "17112",
+      "id": "18103",
       "name": {"ja": "松浦 匠", "en": "Takumi Matsuura"},
       "title": {"ja": "SDN網未知障害発生時の故障確率利用による効率的代替経路発見手法", "en": ""},
       "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
@@ -51,7 +51,7 @@
       "url": ""
     },
     {
-      "id": "17113",
+      "id": "18104",
       "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
       "title": {"ja": "	リンク切断を考慮したHANETsにおける許容遅延制約下のGW最適配置", "en": ""},
       "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
@@ -65,7 +65,7 @@
       "url": ""
     },
     {
-      "id": "17114",
+      "id": "18105",
       "name": {"ja": "仲宗根 一成", "en": "Issei Nakasone"},
       "title": {"ja": "機械学習を用いたDNSクエリ/応答のログ解析による悪性端末検出手法の提案", "en": ""},
       "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
