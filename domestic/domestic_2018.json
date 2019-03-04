@@ -76,6 +76,19 @@
       "location": {"ja": "沖縄コンベンションセンター", "en": ""},
       "date": {"ja": "2019年3月5日", "en": "Mar. 5, 2019"},
       "url": ""
+    },
+    {
+      "id": "18106",
+      "name": {"ja": "澤田 一樹", "en": "Kazuki Sawada"},
+      "title": {"ja": "高速Web配信のためのコネクション集約とクロスオリジンサーバプッシュの実現", "en": ""},
+      "conference": {"ja": "IPSJ インターネットと運用技術研究会", "en": "IPSJ SIG IOT"},
+      "coresearcher": [
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"}
+      ],
+      "location": {"ja": "ホテルグランドエクシブ鳴門＆ザ・ロッジ", "en": ""},
+      "date": {"ja": "2019年3月7日", "en": "Mar. 7, 2019"},
+      "url": ""
     }
   ]
 }
