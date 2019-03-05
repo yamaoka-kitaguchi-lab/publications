@@ -13,8 +13,23 @@
   },
   "students": [
     {
-      "id": "17300",
-      "name": {"ja": "小杉山 拓弥", "en": "Takuya KOSUGIYAMA"},
+      "id": "18301",
+      "name": {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+      "title": {"ja": "", "en": "vEPC Optimal Resource Assignment Method for Accommodating M2M Communications"},
+      "journal": {"ja": "IEICE Transactions on Communications", "en": "IEICE Transactions on Communications"},
+      "coresearcher": [
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "vol": "E101-B",
+      "no": "3",
+      "pp": "637-647",
+      "date": {"ja": "2018", "en": "2018"},
+      "url": ""
+    },
+    {
+      "id": "18302",
+      "name": {"ja": "小杉山 拓弥", "en": "Takuya Kosugiyama"},
       "title": {"ja": "", "en": "A Flow Aggregation Method under Allowable Delay Limitation in SDN"},
       "journal": {"ja": "IEICE Transactions on Communications", "en": "IEICE Transactions on Communications"},
       "coresearcher": [
@@ -24,9 +39,9 @@
       ],
       "vol": "E101-B",
       "no": "3",
-      "pp": "",
-      "date": {"ja": "2018年3月", "en": "Mar, 2018"},
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp"
+      "pp": "795-804",
+      "date": {"ja": "2018", "en": "2018"},
+      "url": ""
     }
   ]
 }
