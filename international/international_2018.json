@@ -12,7 +12,22 @@
   },
   "students": [
     {
-      "id": "18200",
+      "id": "18201",
+      "name": {"ja": "村上 亮太", "en": "Ryota Murakami"},
+      "title": {"ja": "", "en": "VoIP Admission Control to Increase QoS-Guaranteed Sessions by Considering State Probability"},
+      "conference": {"ja": "PIMRC2018", "en": "PIMRC2018"},
+      "coresearcher": [
+        {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Bologna, Italy", "en": "Bologna, Italy"},
+      "pp": "",
+      "date": {"ja": "2019年9月11日", "en": ""},
+      "url": "http://pimrc2018.ieee-pimrc.org/"
+    },
+    {
+      "id": "18202",
       "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
       "title": {"ja": "", "en": "Why File Delivery Order Change is Not Necessary at an Intermediate Node"},
       "conference": {"ja": "CCNC2019", "en": "CCNC2019"},
@@ -20,13 +35,13 @@
         {"ja": "菅原真司", "en": "Shinji Sugawara"},
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
-      "location": {"ja": "ラスベガス", "en": "Las Vegas"},
+      "location": {"ja": "Las Vegas, US", "en": "Las Vegas, US"},
       "pp": "",
       "date": {"ja": "2019年1月12日", "en": ""},
       "url": "https://ccnc2019.ieee-ccnc.org/program/technical-sessions"
     },
     {
-      "id": "18201",
+      "id": "18202",
       "name": {"ja": "宮 太地", "en": "Taichi Miya"},
       "title": {"ja": "", "en": "The Upper Limit of Flow Accommodation under Allowable Delay Constraint in HANETs"},
       "conference": {"ja": "CCNC2019", "en": "CCNC2019"},
@@ -35,7 +50,7 @@
         {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
-      "location": {"ja": "ラスベガス", "en": "Las Vegas"},
+      "location": {"ja": "Las Vegas, US", "en": "Las Vegas, US"},
       "pp": "",
       "date": {"ja": "2019年1月13日", "en": ""},
       "url": "https://ccnc2019.ieee-ccnc.org/program/posters"
