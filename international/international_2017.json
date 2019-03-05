@@ -14,20 +14,6 @@
     {
       "id": "17201",
       "name": {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
-      "title": {"ja": "", "en": "A study on resource granularity of vEPC optimal resource assignment"},
-      "conference": {"ja": "IWQoS2017", "en": "IWQoS2017"},
-      "coresearcher": [
-        {"ja": "ボスコ・テクノロジーズ", "en": ""},
-        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
-      ],
-      "location": {"ja": "Vilanova i la Geltrú, Spain", "en": "Vilanova i la Geltrú, Spain"},
-      "pp": "",
-      "date": {"ja": "2017年6月14日", "en": ""},
-      "url": "http://iwqos2017.ieee-iwqos.org/"
-    },
-    {
-      "id": "17202",
-      "name": {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
       "title": {"ja": "", "en": "An optimal resource assignment for C/D-plane virtualized mobile core networks"},
       "conference": {"ja": "ICC2017", "en": "ICC2017"},
       "coresearcher": [
@@ -40,7 +26,7 @@
       "url": "https://icc2017.ieee-icc.org/"
     },
     {
-      "id": "17203",
+      "id": "17202",
       "name": {"ja": "小杉山 拓弥", "en": "Takuya Kosugiyama"},
       "title": {"ja": "", "en": "A flow aggregation method based on end-to-end delay in SDN"},
       "conference": {"ja": "ICC2017", "en": "ICC2017"},
@@ -53,6 +39,20 @@
       "pp": "",
       "date": {"ja": "2017年5月21日", "en": ""},
       "url": "https://icc2017.ieee-icc.org/"
+    },
+    {
+      "id": "17203",
+      "name": {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+      "title": {"ja": "", "en": "A study on resource granularity of vEPC optimal resource assignment"},
+      "conference": {"ja": "IWQoS2017", "en": "IWQoS2017"},
+      "coresearcher": [
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Vilanova i la Geltrú, Spain", "en": "Vilanova i la Geltrú, Spain"},
+      "pp": "",
+      "date": {"ja": "2017年6月14日", "en": ""},
+      "url": "http://iwqos2017.ieee-iwqos.org/"
     },
     {
       "id": "17204",
