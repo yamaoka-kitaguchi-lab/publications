@@ -1,0 +1,31 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "journal": {"ja": "論文誌名", "en": "Journal"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "vol": {"ja": "ボリューム", "en": "Volume"},
+    "no": {"ja": "ナンバー", "en": "No"},
+    "pp": {"ja": "ページ", "en": "Page"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "17301",
+      "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin Intharawijitr"},
+      "title": {"ja": "", "en": "Simulation Study of Low Latency Network Architecture Using Mobile Edge Computing"},
+      "journal": {"ja": "IEICE Transactions on Information and Systems", "en": "IEICE Transactions on Information and Systems"},
+      "coresearcher": [
+        {"ja": "飯田 勝吉", "en": "Katsuyoshi Iida"},
+        {"ja": "KDDI研究所", "en": ""}
+      ],
+      "vol": "E100.D",
+      "no": "5",
+      "pp": "963-972",
+      "date": {"ja": "2017", "en": "2017"},
+      "url": ""
+    }
+  ]
+}

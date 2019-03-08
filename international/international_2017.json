@@ -61,7 +61,7 @@
       "conference": {"ja": "COMPSAC2017", "en": "COMPSAC2017"},
       "coresearcher": [
         {"ja": "飯田 勝吉", "en": "Katsuyoshi Iida"},
-        {"ja": "古閑 宏幸", "en": "Hiroyuki Koga"},
+        {"ja": "KDDI研究所", "en": ""},
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
       "location": {"ja": "Turin, Italy", "en": "Turin, Italy"},
@@ -71,6 +71,21 @@
     },
     {
       "id": "17205",
+      "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin Intharawijitr"},
+      "title": {"ja": "", "en": "Implementation and preliminary evaluation of low-latency network architecture"},
+      "conference": {"ja": "IEICE IA2017", "en": "IEICE IA2017"},
+      "coresearcher": [
+        {"ja": "飯田 勝吉", "en": "Katsuyoshi Iida"},
+        {"ja": "KDDI研究所", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Bangkok, Thailand", "en": "Bangkok, Thailand"},
+      "pp": "",
+      "date": {"ja": "2017年11月15日", "en": ""},
+      "url": "http://www.ieice.org/~ia/IA2017/wiki.cgi?page=FrontPage"
+    },
+    {
+      "id": "17206",
       "name": {"ja": "松浦 匠", "en": "Takumi Matsuura"},
       "title": {"ja": "", "en": "Fast Detection of Alternative Route under Unknown Failure on SDN Network"},
       "conference": {"ja": "GLOBECOM2017", "en": "GLOBECOM2017"},
