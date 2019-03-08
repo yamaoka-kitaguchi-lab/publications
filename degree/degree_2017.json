@@ -20,7 +20,7 @@
       "tag": [
         {"ja": "CDN", "en": "CDN"}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/170001.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17001/"
     },
     {
       "id": "17002",
@@ -32,7 +32,7 @@
       "tag": [
         {"ja": "基礎検討", "en": "Basic study"}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/170002.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17002/"
     },
     {
       "id": "17003",
@@ -45,7 +45,7 @@
         {"ja": "SDN", "en": "SDN"},
         {"ja": "経路制御", "en": "Routing"}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/170003.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17003/"
     },
     {
       "id": "17004",
@@ -58,7 +58,7 @@
         {"ja": "アドホックネットワーク", "en": "Ad-hoc network"},
         {"ja": "経路制御", "en": "Routing"}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/170004.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17004/"
     },
     {
       "id": "17005",
@@ -70,7 +70,7 @@
       "tag": [
         {"ja": "シミュレーション評価", "en": "Simulation evaluation"}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/170005.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17005/"
     }
   ]
 }

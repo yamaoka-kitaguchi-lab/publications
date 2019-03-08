@@ -21,7 +21,7 @@
         {"ja": "基礎検討", "en": "Basic study"},
         {"ja": "受付制御", "en": "Admission control"}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/160001.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16001/"
     },
     {
       "id": "16002",
@@ -33,7 +33,7 @@
       "tag": [
         {"ja": "受付制御", "en": "Admission control"}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/160002.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16002/"
     },
     {
       "id": "16003",
@@ -45,7 +45,7 @@
       "tag": [
         {"ja": "キャッシュ", "en": ""}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/160003.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16003/"
     },
     {
       "id": "16004",
@@ -57,7 +57,7 @@
       "tag": [
         {"ja": "基礎検討", "en": "Basic study"}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/160004.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16004/"
     },
     {
       "id": "16005",
@@ -70,7 +70,7 @@
         {"ja": "SDN", "en": "SDN"},
         {"ja": "経路制御", "en": "Routing"}
       ],
-      "url": "http://fsv01.intra.net.ict.e.titech.ac.jp/publications/160005.pdf"
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16005/"
     }
   ]
 }
