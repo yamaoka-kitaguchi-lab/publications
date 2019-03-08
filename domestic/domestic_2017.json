@@ -152,33 +152,6 @@
       "location": {"ja": "東京電機大学 東京千住キャンパス", "en": ""},
       "date": {"ja": "2018年3月", "en": "Mar., 2017"},
       "url": ""
-    },
-    {
-      "id": "17110",
-      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
-      "title": {"ja": "ファイルサイズ可変により生じるファイル配送スケジューリングの複雑性", "en": ""},
-      "conference": {"ja": "IEICE ソサイエティ大会", "en": ""},
-      "coresearcher": [
-        {"ja": "菅原 真司", "en": "Shinji Sugawara"},
-        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
-      ],
-      "location": {"ja": "金沢大学 角間キャンパス", "en": ""},
-      "date": {"ja": "2018年9月", "en": "Sep., 2017"},
-      "url": ""
-    },
-    {
-      "id": "17111",
-      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
-      "title": {"ja": "自律クラスタ群における許容遅延に基づくGW最適配置の一考察", "en": ""},
-      "conference": {"ja": "IEICE ソサイエティ大会", "en": ""},
-      "coresearcher": [
-        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
-        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
-        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
-      ],
-      "location": {"ja": "金沢大学 角間キャンパス", "en": ""},
-      "date": {"ja": "2018年9月", "en": "Sep., 2017"},
-      "url": ""
     }
   ]
 }
