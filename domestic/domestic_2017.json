@@ -74,6 +74,86 @@
       "location": {"ja": "フェニックス・シーガイア・リゾート", "en": ""},
       "date": {"ja": "2018年3月2日", "en": "Mar. 2, 2018"},
       "url": ""
+    },
+    {
+      "id": "17106",
+      "name": {"ja": "岡本 卓也", "en": "Takuya Okamoto"},
+      "title": {"ja": "受信者代弁型情報伝送プロトコルの多重化時性能限界", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "KDDI総合研究所", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京電機大学 東京千住キャンパス", "en": ""},
+      "date": {"ja": "2018年3月", "en": "Mar., 2017"},
+      "url": ""
+    },
+    {
+      "id": "17107",
+      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "title": {"ja": "HBH最適ファイル配送方式の中間ノードにおける配送順序変更の可能性", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京電機大学 東京千住キャンパス", "en": ""},
+      "date": {"ja": "2018年3月", "en": "Mar., 2017"},
+      "url": ""
+    },
+    {
+      "id": "17108",
+      "name": {"ja": "村上 亮太", "en": "Ryota Murakami"},
+      "title": {"ja": "VoIP受付制御における状態確率を考慮したQoSを満足する最大収容数決定法", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "田辺 和輝", "en": "Kazuki Tanabe"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京電機大学 東京千住キャンパス", "en": ""},
+      "date": {"ja": "2018年3月", "en": "Mar., 2017"},
+      "url": ""
+    },
+    {
+      "id": "17109",
+      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
+      "title": {"ja": "ゲートウェイ累積遅延と許容遅延を考慮したフロー収容数の最大化", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京電機大学 東京千住キャンパス", "en": ""},
+      "date": {"ja": "2018年3月", "en": "Mar., 2017"},
+      "url": ""
+    },
+    {
+      "id": "17110",
+      "name": {"ja": "赤岡 武", "en": "Takeshi Akaoka"},
+      "title": {"ja": "ファイルサイズ可変により生じるファイル配送スケジューリングの複雑性", "en": ""},
+      "conference": {"ja": "IEICE ソサイエティ大会", "en": ""},
+      "coresearcher": [
+        {"ja": "菅原 真司", "en": "Shinji Sugawara"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "金沢大学 角間キャンパス", "en": ""},
+      "date": {"ja": "2018年9月", "en": "Sep., 2017"},
+      "url": ""
+    },
+    {
+      "id": "17111",
+      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
+      "title": {"ja": "自律クラスタ群における許容遅延に基づくGW最適配置の一考察", "en": ""},
+      "conference": {"ja": "IEICE ソサイエティ大会", "en": ""},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "金沢大学 角間キャンパス", "en": ""},
+      "date": {"ja": "2018年9月", "en": "Sep., 2017"},
+      "url": ""
     }
   ]
 }
