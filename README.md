@@ -57,3 +57,77 @@
       "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16001/"
     },
 ```
+
+末尾カンマ（ケツカンマ）に注意してください．  
+**最後のエントリはカギ括弧末尾にカンマをつけてはいけません．**
+
+```
+[
+  {
+    ...
+  },
+  {
+    ...
+  },
+  {
+    ...
+  }
+]
+```
+
+### domestic/domestic_20??.json
+国内学会誌論文を登録します．
+
+- *id*: 業績を一意特定可能な番号です．例えば2016年度国内学会誌論文の場合は，*161*をプレフィックスにしてください
+- *name*: 学生の氏名です．姓と名の間は半角スペースを入れてください
+- *title*: 論文の題目です
+- *conference*: 学会名です
+- *coresercher*: 共同研究者名です
+- *location*: 学会開催地です
+- *date*: 発表日です
+- *url*: 論文をダウンロード可能なURLです．必ずintraゾーンに配置してください
+
+```
+    {
+      "id": "16101",
+      "name": {"ja": "東工 太郎", "en": "Taro TOUKOU"},
+      "title": {"ja": "情報通信ネットワークに関する研究", "en": ""},
+      "conference": {"ja": "情報通信ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "リサーチ・ラボ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "東京工業大学 大岡山キャンパス", "en": ""},
+      "date": {"ja": "2016年9月", "en": "Sep., 2016"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16101/"
+    },
+```
+
+### international/international_20??.json
+国際学会誌論文を登録します．
+
+- *id*: 業績を一意特定可能な番号です．例えば2016年度国際学会誌論文の場合は，*162*をプレフィックスにしてください
+- *name*: 学生の氏名です．姓と名の間は半角スペースを入れてください
+- *title*: 論文の題目です
+- *conference*: 学会名です
+- *coresercher*: 共同研究者名です
+- *location*: 学会開催地です（国名と都市名）
+- *date*: 発表日です
+- *url*: 論文をダウンロード可能なURLです．必ずintraゾーンに配置してください
+
+```
+    {
+      "id": "16201",
+      "name": {"ja": "東工 太郎", "en": "Taro TOUKOU"},
+      "title": {"ja": "", "en": "Research on information communication networks"},
+      "conference": {"ja": "", "en": "Information Network Conference"},
+      "coresearcher": [
+        {"ja": "", "en": "Research Lab Co., Ltd."},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "", "en": "Las Vegas, US"},
+      "date": {"ja": "2017年1月", "en": "Jan., 2017"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16201/"
+    },
+```
+
