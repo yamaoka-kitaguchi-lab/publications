@@ -131,3 +131,33 @@
     },
 ```
 
+### journal/journal_20??.json
+雑誌論文を登録します．
+
+- *id*: 業績を一意特定可能な番号です．例えば2016年度雑誌論文の場合は，*163*をプレフィックスにしてください
+- *name*: 学生の氏名です．姓と名の間は半角スペースを入れてください
+- *title*: 論文の題目です
+- *journal*: 論文誌名です
+- *coresercher*: 共同研究者名です
+- *vol*: ボリューム番号です
+- *pp*: ページ番号です
+- *date*: 発表日です
+- *url*: 論文をダウンロード可能なURLです．必ずintraゾーンに配置してください
+
+```
+    {
+      "id": "16301",
+      "name": {"ja": "東工 太郎", "en": "Taro TOUKOU"},
+      "title": {"ja": "", "en": "Research on information communication networks"},
+      "journal": {"ja": "", "en": "Transaction on Information Networks"},
+      "coresearcher": [
+        {"ja": "", "en": "Research Lab Co., Ltd."},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "vol": "A101",
+      "no": "1",
+      "pp": "123-131",
+      "date": {"ja": "2016", "en": "2016"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16301/"
+    },
+```
