@@ -1,2 +1,59 @@
-# 研究室の業績 [![Build Status](https://travis-ci.org/yamaoka-kitaguchi-lab/publications.svg?branch=master)](https://travis-ci.org/yamaoka-kitaguchi-lab/publications.svg?branch=master)
-このリポジトリのJSONファイルは https://www.net.ict.e.titech.ac.jp/publications/ からJavaScript経由で参照されます．
+# 業績管理リポジトリ [![Build Status](https://travis-ci.org/yamaoka-kitaguchi-lab/publications.svg?branch=master)](https://travis-ci.org/yamaoka-kitaguchi-lab/publications.svg?branch=master)
+学生の研究業績（学位論文・学会誌論文・雑誌論文）を管理するリポジトリです．
+1. masterブランチのJSONファイルは[業績ページ](https://www.net.ict.e.titech.ac.jp/publications/)からJavascript経由で動的に参照されます
+1. masterブランチは保護されており，ローカルの変更を反映するにはプルリクエストを作成する必要があります
+1. プルリクエスト作成時に自動で構文チェックが実行され，これに成功した場合のみマージすることができます
+
+## 各JSONファイルの目的
+業績の更新時に編集が必要となるJSONファイルを説明します．  
+**新年度の業績登録など，新しくJSONファイルを追加する場合は，必ず前年度JSONファイルのコピーを元に作業してください．**（手で直打ちするとだいたいミスします）
+
+### index.json
+[業績ページ](https://www.net.ict.e.titech.ac.jp/publications/)で実行されるJavascriptに「何年度の業績を掲載するか」を指示します．  
+例えば，以下のように記述すると
+
+- 学位論文の2016年度・2017年度
+- 国内学会誌論文の2018年度・2017年度
+- 国際学会誌論文の2018年度・2017年度
+- 雑誌論文の2018年度・2017年度
+
+がWebに掲載されることになります．  
+
+```
+  "publications": {
+    "degree": [2017, 2016],
+    "domestic": [2018, 2017],
+    "international": [2018, 2017],
+    "journal": [2018, 2017]
+  }
+```
+
+**構文チェックの対象外です．慎重に編集してください．**  
+**このファイルが破壊されるとWebページが適切に表示されなくなります．**
+
+### degree/degree_20??.json
+学位論文を登録します．  
+
+- *id*: 業績を一意特定可能な番号です．例えば2016年度学位論文の場合は，*160*をプレフィックスにしてください
+- *degree*: 学士・修士・博士から選びます
+- *name*: 学生の氏名です．姓と名の間は半角スペースを入れてください
+- *title*: 学位論文の題目です
+- *supervisor*: 主指導教員名です
+- *previous*: 先行研究者となる学生の氏名です
+- *tag*: 論文のキーワードです
+- *url*: 論文をダウンロード可能なURLです．必ずintraゾーンに配置してください
+
+```
+    {
+      "id": "16001",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "東工 太郎", "en": "Taro TOUKOU"},
+      "title": {"ja": "情報通信ネットワークに関する研究", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "東工 花子", "en": "Hanako TOUKOU"},
+      "tag": [
+        {"ja": "受付制御", "en": "Admission control"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/16001/"
+    },
+```
