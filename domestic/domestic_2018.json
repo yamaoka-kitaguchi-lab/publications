@@ -140,7 +140,7 @@
         {"ja": "ボスコ・テクノロジーズ", "en": ""},
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
-      "location": {"ja": "早稲田大学西早稲田キャンパス", "en": ""},
+      "location": {"ja": "早稲田大学 西早稲田キャンパス", "en": ""},
       "date": {"ja": "2019年3月22日", "en": "Mar. 22, 2019"},
       "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/181110/"
     },
@@ -151,7 +151,7 @@
       "conference": {"ja": "IEICE 総合大会", "en": ""},
       "coresearcher": [
       ],
-      "location": {"ja": "早稲田大学西早稲田キャンパス", "en": ""},
+      "location": {"ja": "早稲田大学 西早稲田キャンパス", "en": ""},
       "date": {"ja": "2019年3月22日", "en": "Mar. 22, 2019"},
       "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/181111/"
     },
@@ -164,7 +164,7 @@
         {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
-      "location": {"ja": "早稲田大学西早稲田キャンパス", "en": ""},
+      "location": {"ja": "早稲田大学 西早稲田キャンパス", "en": ""},
       "date": {"ja": "2019年3月20日", "en": "Mar. 20, 2019"},
       "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/181112/"
     }
