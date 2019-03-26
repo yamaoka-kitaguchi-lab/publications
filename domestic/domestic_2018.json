@@ -130,6 +130,43 @@
       "location": {"ja": "ホテルグランドエクシブ鳴門＆ザ・ロッジ", "en": ""},
       "date": {"ja": "2019年3月7日", "en": "Mar. 7, 2019"},
       "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18109/"
+    },
+    {
+      "id": "18110",
+      "name": {"ja": "松浦 匠", "en": "Takumi Matsuura"},
+      "title": {"ja": "探索木によるSDN網未知障害発生時の代替経路発見高速化効果", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "ボスコ・テクノロジーズ", "en": ""},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "早稲田大学 西早稲田キャンパス", "en": ""},
+      "date": {"ja": "2019年3月22日", "en": "Mar. 22, 2019"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/181110/"
+    },
+    {
+      "id": "18111",
+      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
+      "title": {"ja": "許容遅延を考慮した異種アドホックネットワーク間接続GWの最適配置", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+      ],
+      "location": {"ja": "早稲田大学 西早稲田キャンパス", "en": ""},
+      "date": {"ja": "2019年3月22日", "en": "Mar. 22, 2019"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/181111/"
+    },
+    {
+      "id": "18112",
+      "name": {"ja": "澤田 一樹", "en": "Kazuki Sawada"},
+      "title": {"ja": "コネクション集約とログ解析による高速なWebコンテンツ配信手法", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "早稲田大学 西早稲田キャンパス", "en": ""},
+      "date": {"ja": "2019年3月20日", "en": "Mar. 20, 2019"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/181112/"
     }
   ]
 }
