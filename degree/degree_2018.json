@@ -1,0 +1,87 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "degree": {"ja": "学位", "en": "Degree"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "supervisor": {"ja": "指導教員", "en": "Supervior"},
+    "previous": {"ja": "先行研究者", "en": "Previous Research"},
+    "tag": {"ja": "タグ", "en": "Tag"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "18001",
+      "degree": {"ja": "博士", "en": "Ph.D."},
+      "name": {"ja": "田辺 和輝", "en": "Kazuki TANABE"},
+      "title": {"ja": "A Study on Network Resource Assignment for Efficient Communication Accommodation", "en": "A Study on Network Resource Assignment for Efficient Communication Accommodation"},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "受付制御", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18001/"
+    },
+    {
+      "id": "18002",
+      "degree": {"ja": "修士", "en": "Master"},
+      "name": {"ja": "赤岡 武", "en": "Takeshi AKAOKA"},
+      "title": {"ja": "HBH最適ファイル配送スケジューリングの一般化に関する研究", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "鶴見 宏美", "en": "Hiromi TSURUMI"},
+      "tag": [
+        {"ja": "ICN/CCN", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18002/"
+    },
+    {
+      "id": "18003",
+      "degree": {"ja": "修士", "en": "Master"},
+      "name": {"ja": "松浦 匠", "en": "Takumi MATSUURA"},
+      "title": {"ja": "SDN網未知障害発生時の故障確率利用による効率的代替経路発見手法", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "SDN", "en": ""},
+        {"ja": "経路制御", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18003/"
+    },
+    {
+      "id": "18004",
+      "degree": {"ja": "修士", "en": "Master"},
+      "name": {"ja": "村上 亮太", "en": "Ryota MURAKAMI"},
+      "title": {"ja": "状態確率を考慮したQoSを保証するVoIP受付制御方式", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "受付制御", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18004/"
+    },
+    {
+      "id": "18005",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "澤田 一樹", "en": "Kazuki SAWADA"},
+      "title": {"ja": "ServiceWorkerによるWeb高速化に関する研究 ―パッケージングと配送経路制御―", "en": ""},
+      "supervisor": {"ja": "北口 善明", "en": "Yoshiaki KITAGUCHI"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18005/"
+    },
+    {
+      "id": "18006",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "仲宗根 一成", "en": "Issei NAKASONE"},
+      "title": {"ja": "機械学習を用いたDNSクエリ/応答のログ解析による悪性端末検出手法の提案", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18006/"
+    }
+  ]
+}
