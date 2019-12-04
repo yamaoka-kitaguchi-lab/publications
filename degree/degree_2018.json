@@ -83,6 +83,19 @@
         {"ja": "機械学習", "en": ""}
       ],
       "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18006/"
+    },
+    {
+      "id": "18007",
+      "degree": {"ja": "博士", "en": "Ph.D."},
+      "name": {"ja": "クリッティン インタラウィジット", "en": "Krittin INTHARAWIJITR"},
+      "title": {"ja": "A Study on Low-latency Network Model in Mobile Edge Computing", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "MEC", "en": ""},
+        {"ja": "受付制御", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18007/"
     }
   ]
 }
