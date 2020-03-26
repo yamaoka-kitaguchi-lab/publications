@@ -1,4 +1,4 @@
-# 業績管理リポジトリ [![Build Status](https://travis-ci.org/yamaoka-kitaguchi-lab/publications.svg?branch=master)](https://travis-ci.org/yamaoka-kitaguchi-lab/publications)
+# 業績管理リポジトリ [![Build Status](https://travis-ci.org/yamaoka-kitaguchi-lab/publications.svg?branch=master)](https://travis-ci.org/yamaoka-kitaguchi-lab/publications) ![validator](https://github.com/yamaoka-kitaguchi-lab/publications/workflows/validator/badge.svg)
 学生の研究業績（学位論文・学会誌論文・雑誌論文）を管理するリポジトリです．
 1. masterブランチのJSONファイルは[業績ページ](https://www.net.ict.e.titech.ac.jp/publications/)からJavascript経由で動的に参照されます
 1. masterブランチは保護されており，ローカルの変更を反映するにはプルリクエストを作成する必要があります
