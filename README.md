@@ -2,9 +2,11 @@
 
 # 業績管理リポジトリ [![](https://travis-ci.org/yamaoka-kitaguchi-lab/publications.svg?branch=master)](https://travis-ci.org/yamaoka-kitaguchi-lab/publications) ![](https://github.com/yamaoka-kitaguchi-lab/publications/workflows/validator/badge.svg) [![](https://img.shields.io/github/issues/yamaoka-kitaguchi-lab/publications)](https://github.com/yamaoka-kitaguchi-lab/pulications/issues) [![](https://img.shields.io/github/issues-pr/yamaoka-kitaguchi-lab/publications)](https://github.com/yamaoka-kitaguchi-lab/publications/pulls)
 学生の研究業績（学位論文・学会誌論文・雑誌論文）を管理するリポジトリです．
-1. masterブランチのJSONファイルは[業績ページ](https://www.net.ict.e.titech.ac.jp/publications/)からJavascript経由で動的に参照されます
-1. masterブランチは保護されており，ローカルの変更を反映するにはプルリクエストを作成する必要があります
-1. プルリクエスト作成時に自動で構文チェックが実行され，これに成功した場合のみマージすることができます
+
+1. **master ブランチは保護されています．** 直接プッシュ `git push origin master` はできません
+1. master ブランチへローカルの変更を反映するにはプルリクエストを提出してください．なお，リクエストを承認し master ブランチへマージできるのは net-root チームメンバーのみであり，さらにこれは以下2条件をクリアした場合に限られます:
+    - **プルリクエスト作成時に自動実行されるテストをすべて通過すること**
+    - **net-root によるコードレビューを経ること**
 
 ## 各JSONファイルの目的
 業績の更新時に編集が必要となるJSONファイルを説明します．  
