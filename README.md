@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/yamaoka-kitaguchi-lab/publications/images/logo.png)
+
 # 業績管理リポジトリ [![](https://travis-ci.org/yamaoka-kitaguchi-lab/publications.svg?branch=master)](https://travis-ci.org/yamaoka-kitaguchi-lab/publications) ![](https://github.com/yamaoka-kitaguchi-lab/publications/workflows/validator/badge.svg) [![](https://img.shields.io/github/issues/yamaoka-kitaguchi-lab/publications)](https://github.com/yamaoka-kitaguchi-lab/pulications/issues) [![](https://img.shields.io/github/issues-pr/yamaoka-kitaguchi-lab/publications)](https://github.com/yamaoka-kitaguchi-lab/publications/pulls)
 学生の研究業績（学位論文・学会誌論文・雑誌論文）を管理するリポジトリです．
 1. masterブランチのJSONファイルは[業績ページ](https://www.net.ict.e.titech.ac.jp/publications/)からJavascript経由で動的に参照されます
