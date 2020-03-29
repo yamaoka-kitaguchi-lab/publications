@@ -5,7 +5,7 @@
 
 1. masterブランチのJSONファイルは[業績ページ](https://www.net.ict.e.titech.ac.jp/publications/)からJavascript経由で動的に参照されます
 1. **master ブランチは保護されています．** 直接プッシュ `git push origin master` はできません
-1. master ブランチへローカルの変更を反映するにはプルリクエストを提出してください．なお，リクエストを承認し master ブランチへマージできるのは net-root チームメンバーのみであり，さらにこれは以下2条件をクリアした場合に限られます:
+1. master ブランチへローカルの変更を反映するにはプルリクエストを提出してください．なお，リクエストを承認し master ブランチへマージできるのは [net-root](https://github.com/orgs/yamaoka-kitaguchi-lab/teams/net-root) チームメンバーのみであり，さらにこれは以下2条件をクリアした場合に限られます:
     - **プルリクエスト作成時に自動実行されるテストをすべて通過すること**
     - **net-root によるコードレビューを経ること**
 
