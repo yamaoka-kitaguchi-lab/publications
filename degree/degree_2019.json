@@ -1,0 +1,75 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "degree": {"ja": "学位", "en": "Degree"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "supervisor": {"ja": "指導教員", "en": "Supervior"},
+    "previous": {"ja": "先行研究者", "en": "Previous Research"},
+    "tag": {"ja": "タグ", "en": "Tag"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "19001",
+      "degree": {"ja": "修士", "en": "Master"},
+      "name": {"ja": "平井 和樹", "en": "Kazuki HIRAI"},
+      "title": {"ja": "関連人気度に基づくコンテンツキャッシング手法", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "キャッシュ", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19001/"
+    },
+    {
+      "id": "19002",
+      "degree": {"ja": "修士", "en": "Master"},
+      "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
+      "title": {"ja": "A Gateway Placement Algorithm under Allowable Delay Constraint in HANETs", "en": "A Gateway Placement Algorithm under Allowable Delay Constraint in HANETs"},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "アドホックネットワーク", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19002/"
+    },
+    {
+      "id": "19003",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "大橋 滉也", "en": "Koya OHASHI"},
+      "title": {"ja": "ネットワーク環境に応じたHTTPバージョン選択によるコンテンツロード時間削減", "en": ""},
+      "supervisor": {"ja": "北口 善明", "en": "Yoshiaki KITAGUCHI"},
+      "previous": {"ja": "", "en": ""},
+      "tag": [
+        {"ja": "HTTP", "en": ""},
+        {"ja": "アプリケーション", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19003/"
+    },
+    {
+      "id": "19004",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
+      "title": {"ja": "HBH最適ファイル配送スケジューリング2リンク拡張の適用領域検討", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "赤岡 武", "en": "Takeshi AKAOKA"},
+      "tag": [
+        {"ja": "ICN/CCN", "en": ""}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19004/"
+    },
+    {
+      "id": "19005",
+      "degree": {"ja": "学士", "en": "Bachelor"},
+      "name": {"ja": "オチラル ダワージャルガル", "en": "Uchral DAVAAJARGAL"},
+      "title": {"ja": "位置により偏る人気度を考慮したコンテンツ複製配置法", "en": ""},
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
+      "previous": {"ja": "小原 遼平", "en": "Ryohei OBARA"},
+      "tag": [
+        {"ja": "CDN", "en": "CDN"}
+      ],
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19005/"
+    }
+  ]
+}
