@@ -1,0 +1,108 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "19101",
+      "name": {"ja": "大橋 滉也", "en": "Koya OHASHI"},
+      "title": {"ja": "ネットワーク環境に応じたHTTPバージョン選択によるコンテンツロード時間削減", "en": ""},
+      "conference": {"ja": "IPSJ インターネットと運用技術研究会", "en": "IPSJ IOT"},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "名古屋大学 東山キャンパンス", "en": ""},
+      "date": {"ja": "2020年3月3日", "en": "Mar. 3, 2020"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19101/"
+    },
+    {
+      "id": "19102",
+      "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
+      "title": {"ja": "低電力アドホックネットワークにおける通信中継負荷の分析", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Royal Hotel 沖縄残波岬", "en": ""},
+      "date": {"ja": "2020年3月5日", "en": "Mar. 5, 2020"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19102/"
+    },
+    {
+      "id": "19103",
+      "name": {"ja": "平井 和樹", "en": "Kazuki HIRAI"},
+      "title": {"ja": "関連人気度に基づくコンテンツキャッシング手法", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Royal Hotel 沖縄残波岬", "en": ""},
+      "date": {"ja": "2020年3月6日", "en": "Mar. 6, 2020"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19103/"
+    },
+    {
+      "id": "19104",
+      "name": {"ja": "伊藤 佑樹", "en": "Yuki ITO"},
+      "title": {"ja": "遅延を考慮した受信者代弁型情報伝送プロトコルへの1bit誤り耐性付加", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Royal Hotel 沖縄残波岬", "en": ""},
+      "date": {"ja": "2020年3月6日", "en": "Mar. 6, 2020"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19104/"
+    },
+    {
+      "id": "19105",
+      "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
+      "title": {"ja": "HBH最適ファイル配送スケジューリング2リンク拡張の適用領域検討", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": "IEICE IN"},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "菅原 真司", "en": "Shinji SUGAWARA"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Royal Hotel 沖縄残波岬", "en": ""},
+      "date": {"ja": "2020年3月6日", "en": "Mar. 6, 2020"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19105/"
+    },
+    {
+      "id": "19106",
+      "name": {"ja": "伊藤 佑樹", "en": "Yuki ITO"},
+      "title": {"ja": "誤り検出再送による受信者代弁型情報伝送プロトコルへの1bit誤り耐性付加", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": "IEICE General"},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "広島大学 東広島キャンパス", "en": ""},
+      "date": {"ja": "2020年3月18日", "en": "Mar. 18, 2020"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19106/"
+    },
+    {
+      "id": "19107",
+      "name": {"ja": "大橋 滉也", "en": "Koya OHASHI"},
+      "title": {"ja": "ネットワーク環境に応じた動的HTTPバージョン選択方式", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": "IEICE General"},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "広島大学 東広島キャンパス", "en": ""},
+      "date": {"ja": "2020年3月19日", "en": "Mar. 19, 2020"},
+      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19107/"
+    }
+  ]
+}
