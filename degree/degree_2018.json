@@ -20,7 +20,7 @@
       "tag": [
         {"ja": "受付制御", "en": ""}
       ],
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18001/"
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/18001.pdf"
     },
     {
       "id": "18002",
@@ -32,7 +32,7 @@
       "tag": [
         {"ja": "ICN/CCN", "en": ""}
       ],
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18002/"
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/18002.pdf"
     },
     {
       "id": "18003",
@@ -45,7 +45,7 @@
         {"ja": "SDN", "en": ""},
         {"ja": "経路制御", "en": ""}
       ],
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18003/"
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/18003.pdf"
     },
     {
       "id": "18004",
@@ -57,7 +57,7 @@
       "tag": [
         {"ja": "受付制御", "en": ""}
       ],
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18004/"
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/18004.pdf"
     },
     {
       "id": "18005",
@@ -70,7 +70,7 @@
         {"ja": "HTTP", "en": ""},
         {"ja": "アプリケーション", "en": ""}
       ],
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18005/"
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/18005.pdf"
     },
     {
       "id": "18006",
@@ -82,7 +82,7 @@
       "tag": [
         {"ja": "機械学習", "en": ""}
       ],
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18006/"
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/18006.pdf"
     },
     {
       "id": "18007",
@@ -95,7 +95,7 @@
         {"ja": "MEC", "en": ""},
         {"ja": "受付制御", "en": ""}
       ],
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/18007/"
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/18007.pdf"
     }
   ]
 }

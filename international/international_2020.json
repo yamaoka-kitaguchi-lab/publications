@@ -1,0 +1,30 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "pp": {"ja": "ページ", "en": "Page"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "20201",
+      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
+      "title": {"ja": "", "en": "Experimental Analysis of Communication Relaying Delay in Low-Energy Ad-hoc Networks"},
+      "conference": {"ja": "CCNC2021", "en": "CCNC2021"},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "Online", "en": "Online"},
+      "pp": "",
+      "date": {"ja": "2021年1月11日", "en": ""},
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/20201.pdf"
+    }
+  ]
+}

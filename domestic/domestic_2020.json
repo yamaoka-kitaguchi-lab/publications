@@ -1,0 +1,121 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "20101",
+      "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
+      "title": {"ja": "力学モデルに基づくHANETsにおけるGW移動制御の性能解析", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2020年12月14日", "en": "Dec. 14, 2020"},
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/20101.pdf"
+    },
+    {
+      "id": "20102",
+      "name": {"ja": "伊藤 佑樹", "en": "Yuki ITO"},
+      "title": {"ja": "受信者代弁型情報伝送プロトコル上り1bit誤り耐性方式の最適設定法", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2021年3月5日", "en": "Mar. 5, 2021"},
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/20102.pdf"
+    },
+    {
+      "id": "20103",
+      "name": {"ja": "内藤 碩治", "en": "Mitsuharu NAITO"},
+      "title": {"ja": "受信者代弁型情報伝送プロトコルにおけるダウンリンク通信誤り訂正手法", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2021年3月5日", "en": "Mar. 5, 2021"},
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/20103.pdf"
+    },
+    {
+      "id": "20104",
+      "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
+      "title": {"ja": "HANETsにおけるGW自律移動制御による低遅延通信の実現", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2021年3月4日", "en": "Mar. 4, 2021"},
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/20104.pdf"
+    },
+    {
+      "id": "20105",
+      "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
+      "title": {"ja": "MECにおけるマルチジョブ棄却率最適制御方式", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2021年3月4日", "en": "Mar. 4, 2021"},
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/20105.pdf"
+    },
+    {
+      "id": "20106",
+      "name": {"ja": "内藤 碩治", "en": "Mitsuharu NAITO"},
+      "title": {"ja": "ダウンロード通信誤りを考慮した受信者代弁型情報伝送プロトコルの情報伝送効率", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2021年3月9日", "en": "Mar. 9, 2021"},
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/20106.pdf"
+    },
+    {
+      "id": "20107",
+      "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
+      "title": {"ja": "力学モデルによる HANETs トポロジコントロールの一考察", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2021年3月10日", "en": "Mar. 10, 2021"},
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/20107.pdf"
+    },
+    {
+      "id": "20108",
+      "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
+      "title": {"ja": "待ち行列理論による MEC へのマルチジョブ収容最適閾値設定", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2021年3月10日", "en": "Mar. 10, 2021"},
+      "url": "https://yamaoka-kitaguchi-lab.s3-ap-northeast-1.amazonaws.com/publications/20108.pdf"
+    }
+  ]
+}

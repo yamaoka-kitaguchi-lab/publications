@@ -22,7 +22,7 @@
       ],
       "location": {"ja": "名古屋大学 東山キャンパンス", "en": ""},
       "date": {"ja": "2020年3月3日", "en": "Mar. 3, 2020"},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19101/"
+      "url": ""
     },
     {
       "id": "19102",
@@ -36,7 +36,7 @@
       ],
       "location": {"ja": "Royal Hotel 沖縄残波岬", "en": ""},
       "date": {"ja": "2020年3月5日", "en": "Mar. 5, 2020"},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19102/"
+      "url": ""
     },
     {
       "id": "19103",
@@ -49,7 +49,7 @@
       ],
       "location": {"ja": "Royal Hotel 沖縄残波岬", "en": ""},
       "date": {"ja": "2020年3月6日", "en": "Mar. 6, 2020"},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19103/"
+      "url": ""
     },
     {
       "id": "19104",
@@ -62,7 +62,7 @@
       ],
       "location": {"ja": "Royal Hotel 沖縄残波岬", "en": ""},
       "date": {"ja": "2020年3月6日", "en": "Mar. 6, 2020"},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19104/"
+      "url": ""
     },
     {
       "id": "19105",
@@ -76,7 +76,7 @@
       ],
       "location": {"ja": "Royal Hotel 沖縄残波岬", "en": ""},
       "date": {"ja": "2020年3月6日", "en": "Mar. 6, 2020"},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19105/"
+      "url": ""
     },
     {
       "id": "19106",
@@ -89,7 +89,7 @@
       ],
       "location": {"ja": "広島大学 東広島キャンパス", "en": ""},
       "date": {"ja": "2020年3月18日", "en": "Mar. 18, 2020"},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19106/"
+      "url": ""
     },
     {
       "id": "19107",
@@ -102,7 +102,7 @@
       ],
       "location": {"ja": "広島大学 東広島キャンパス", "en": ""},
       "date": {"ja": "2020年3月19日", "en": "Mar. 19, 2020"},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/19107/"
+      "url": ""
     }
   ]
 }

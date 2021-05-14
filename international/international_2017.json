@@ -23,7 +23,7 @@
       "location": {"ja": "Paris, France", "en": "Paris, France"},
       "pp": "",
       "date": {"ja": "2017年5月21日", "en": ""},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17201/"
+      "url": ""
     },
     {
       "id": "17202",
@@ -38,7 +38,7 @@
       "location": {"ja": "Paris, France", "en": "Paris, France"},
       "pp": "",
       "date": {"ja": "2017年5月21日", "en": ""},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17202/"
+      "url": ""
     },
     {
       "id": "17203",
@@ -52,7 +52,7 @@
       "location": {"ja": "Vilanova i la Geltrú, Spain", "en": "Vilanova i la Geltrú, Spain"},
       "pp": "",
       "date": {"ja": "2017年6月14日", "en": ""},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17203/"
+      "url": ""
     },
     {
       "id": "17204",
@@ -67,7 +67,7 @@
       "location": {"ja": "Turin, Italy", "en": "Turin, Italy"},
       "pp": "",
       "date": {"ja": "2017年7月4日", "en": ""},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17204/"
+      "url": ""
     },
     {
       "id": "17205",
@@ -82,7 +82,7 @@
       "location": {"ja": "Bangkok, Thailand", "en": "Bangkok, Thailand"},
       "pp": "",
       "date": {"ja": "2017年11月15日", "en": ""},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17205/"
+      "url": ""
     },
     {
       "id": "17206",
@@ -96,7 +96,7 @@
       "location": {"ja": "Singapore", "en": "Singapore"},
       "pp": "",
       "date": {"ja": "2017年12月4日", "en": ""},
-      "url": "http://s3.intra.net.ict.e.titech.ac.jp/minio/publications/17206/"
+      "url": ""
     }
   ]
 }
