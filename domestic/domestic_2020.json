@@ -93,7 +93,7 @@
     {
       "id": "20107",
       "name": {"ja": "宮 太地", "en": "Taichi MIYA"},
-      "title": {"ja": "力学モデルによる HANETs トポロジコントロールの一考察", "en": ""},
+      "title": {"ja": "力学モデルによるHANETsトポロジコントロールの一考察", "en": ""},
       "conference": {"ja": "IEICE 総合大会", "en": ""},
       "coresearcher": [
         {"ja": "大島 浩太", "en": "Kohta Ohshima"},
@@ -107,7 +107,7 @@
     {
       "id": "20108",
       "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
-      "title": {"ja": "待ち行列理論による MEC へのマルチジョブ収容最適閾値設定", "en": ""},
+      "title": {"ja": "待ち行列理論によるMECへのマルチジョブ収容最適閾値設定", "en": ""},
       "conference": {"ja": "IEICE 総合大会", "en": ""},
       "coresearcher": [
         {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
