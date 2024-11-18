@@ -1,0 +1,70 @@
+{
+  "label": {
+    "id": { "ja": "ID", "en": "ID" },
+    "degree": { "ja": "学位", "en": "Degree" },
+    "name": { "ja": "名前", "en": "Name" },
+    "title": { "ja": "題目", "en": "Title" },
+    "supervisor": { "ja": "指導教員", "en": "Supervior" },
+    "previous": { "ja": "先行研究者", "en": "Previous Research" },
+    "tag": { "ja": "タグ", "en": "Tag" },
+    "url": { "ja": "URL", "en": "URL" }
+  },
+  "students": [
+    {
+      "id": "22001",
+      "degree": { "ja": "博士", "en": "Ph.D." },
+      "name": { "ja": "宮 太地", "en": "Taichi MIYA" },
+      "title": {
+        "ja": "",
+        "en": "A Study on Gateway Mobility Control for Heterogeneous Ad Hoc Networks"
+      },
+      "supervisor": { "ja": "山岡 克式", "en": "Katsunori YAMAOKA" },
+      "tag": [
+        { "ja": "", "en": "" }
+      ],
+      "url": ""
+    },
+    {
+      "id": "22002",
+      "degree": { "ja": "修士", "en": "Master" },
+      "name": { "ja": "片岡 秀斗", "en": "Shuto KATAOKA" },
+      "title": {
+        "ja": "任意分岐あり2段リンクへのHBHファイル配送方式の拡張",
+        "en": ""
+      },
+      "supervisor": { "ja": "北口 善明", "en": "Yoshiaki KITAGUCHI" },
+      "tag": [
+        { "ja": "", "en": "" }
+      ],
+      "url": ""
+    },
+    {
+      "id": "22003",
+      "degree": { "ja": "学士", "en": "Bachelor" },
+      "name": { "ja": "大坪 正樹", "en": "Masaki OTSUBO" },
+      "title": {
+        "ja": "送信内容の異なる受信者代弁型情報伝送プロトコルの比較検討",
+        "en": ""
+      },
+      "supervisor": { "ja": "山岡 克式", "en": "Katsunori YAMAOKA" },
+      "tag": [
+        { "ja": "", "en": "" }
+      ],
+      "url": ""
+    },
+    {
+      "id": "22004",
+      "degree": { "ja": "学士", "en": "Bachelor" },
+      "name": { "ja": "和氣 智慶", "en": "Tomoyoshi WAKI" },
+      "title": {
+        "ja": "VoIPにおけるペイロードサイズ毎トラヒックモデル",
+        "en": ""
+      },
+      "supervisor": { "ja": "北口 善明", "en": "Yoshiaki KITAGUCHI" },
+      "tag": [
+        { "ja": "", "en": "" }
+      ],
+      "url": ""
+    }
+  ]
+}
