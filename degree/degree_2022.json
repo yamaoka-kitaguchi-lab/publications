@@ -19,6 +19,7 @@
         "en": "A Study on Gateway Mobility Control for Heterogeneous Ad Hoc Networks"
       },
       "supervisor": { "ja": "山岡 克式", "en": "Katsunori YAMAOKA" },
+      "previous": { "ja": "", "en": "" },
       "tag": [
         { "ja": "", "en": "" }
       ],
@@ -33,6 +34,7 @@
         "en": ""
       },
       "supervisor": { "ja": "北口 善明", "en": "Yoshiaki KITAGUCHI" },
+      "previous": { "ja": "湯田 孟", "en": "Hajime YUDA" },
       "tag": [
         { "ja": "", "en": "" }
       ],
@@ -47,6 +49,7 @@
         "en": ""
       },
       "supervisor": { "ja": "山岡 克式", "en": "Katsunori YAMAOKA" },
+      "previous": { "ja": "内藤 碩治", "en": "Mitsuharu NAITO" },
       "tag": [
         { "ja": "", "en": "" }
       ],
@@ -61,6 +64,7 @@
         "en": ""
       },
       "supervisor": { "ja": "北口 善明", "en": "Yoshiaki KITAGUCHI" },
+      "previous": { "ja": "", "en": "" },
       "tag": [
         { "ja": "", "en": "" }
       ],
