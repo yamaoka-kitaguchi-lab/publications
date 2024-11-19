@@ -1,0 +1,96 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "22101",
+      "name": { "ja": "和氣 智慶", "en": "Tomoyoshi WAKI" },
+      "title": {"ja": "可変ペイロードサイズに対する有限状態数VoIPトラヒックモデル", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "宮田 純子", "en": "Sumiko Miyata"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "広島大学 東千田キャンパス", "en": ""},
+      "date": {"ja": "2022年12月13日", "en": "Dec. 13, 2022"},
+      "url": ""
+    },
+    {
+      "id": "22102",
+      "name": { "ja": "大坪 正樹", "en": "Masaki OTSUBO" },
+      "title": {"ja": "送信内容の異なる受信者代弁型情報伝送プロトコルの比較検討", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄コンベンションセンター", "en": ""},
+      "date": {"ja": "2023年3月3日", "en": "Mar. 3, 2023"},
+      "url": ""
+    },
+    {
+      "id": "22103",
+      "name": { "ja": "片岡 秀斗", "en": "Shuto KATAOKA" },
+      "title": {"ja": "準最適HBHファイル配送スケジューリングの2段リンクにおける一般化", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄コンベンションセンター", "en": ""},
+      "date": {"ja": "2023年3月2日", "en": "Mar. 2, 2023"},
+      "url": ""
+    },
+    {
+      "id": "22104",
+     "name": { "ja": "和氣 智慶", "en": "Tomoyoshi WAKI" },
+      "title": {"ja": "音声ペイロードサイズがトラヒックに及ぼす影響", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "宮田 純子", "en": "Sumiko Miyata"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "芝浦工業大学 大宮キャンパス", "en": ""},
+      "date": {"ja": "2023年3月8日", "en": "Mar. 8, 2023"},
+      "url": ""
+    },
+    {
+      "id": "22105",
+      "name": { "ja": "片岡 秀斗", "en": "Shuto KATAOKA" },
+      "title": {"ja": "中間ノードにおける配送待ちを考慮した合流型2段リンクのHBHファイル配送方式", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "芝浦工業大学 大宮キャンパス", "en": ""},
+      "date": {"ja": "2023年3月10日", "en": "Mar. 10, 2023"},
+      "url": ""
+    },
+    {
+      "id": "22106",
+      "name": { "ja": "大坪 正樹", "en": "Masaki OTSUBO" },
+      "title": {"ja": "位置識別子を利用した受信者代弁型情報伝送プロトコル", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "芝浦工業大学 大宮キャンパス", "en": ""},
+      "date": {"ja": "2023年3月10日", "en": "Mar. 10, 2023"},
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "24101",
+      "name": { "ja": "在間 哲平", "en": "Teppei ZAIMA" },
+      "title": {"ja": "マルチジョブ棄却率最適制御方式に対する待機キューを用いた応答時間短縮手法", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "モエレ沼公園 ガラスのピラミッド", "en": ""},
+      "date": {"ja": "2024年7月30日", "en": "Jul. 30, 2024"},
+      "url": ""
+    }
+  ]
+}
