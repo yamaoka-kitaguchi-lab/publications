@@ -21,6 +21,7 @@
         {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
         {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
       ],
+      "journal": {"ja": "IEICE Transactions on Communications", "en": "IEICE Transactions on Communications"},
       "vol": "E105-B",
       "no": "4",
       "pp": "432-448",
