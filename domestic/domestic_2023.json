@@ -1,0 +1,68 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "23101",
+      "name": { "ja": "大坪 正樹", "en": "Masaki OTSUBO" },
+      "title": {"ja": "送信内容の異なる受信者代弁型情報伝送プロトコルにおける多重化後スループットの検討", "en": ""},
+      "conference": {"ja": "IEICE コミュニケーションシステム研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "", "en": ""},
+      "date": {"ja": "2023年7月", "en": "Jul. 2023"},
+      "url": ""
+    },
+    {
+      "id": "23102",
+      "name": { "ja": "和氣 智慶", "en": "Tomoyoshi WAKI" },
+      "title": {"ja": "可変ペイロードサイズによる使用帯域削減に向けたVoIPトラヒックモデルの導出", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "宮田 純子", "en": "Sumiko Miyata"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "広島大学 東広島キャンパス", "en": ""},
+      "date": {"ja": "2024年3月7日", "en": "Mar. 2024"},
+      "url": ""
+    },
+    {
+      "id": "23103",
+      "name": { "ja": "在間 哲平", "en": "Teppei ZAIMA" },
+      "title": {"ja": "待機キューの導入による非リアルタイムジョブ応答時間短縮", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "広島大学 東広島キャンパス", "en": ""},
+      "date": {"ja": "2024年3月7日", "en": "Mar. 7, 2024"},
+      "url": ""
+    },
+    {
+      "id": "23104",
+      "name": { "ja": "大坪 正樹", "en": "Masaki OTSUBO" },
+      "title": {"ja": "受信者代弁型情報伝送プロトコルにおけるスレッド識別可能な多重化方式", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "広島大学 東広島キャンパス", "en": ""},
+      "date": {"ja": "2024年3月7日", "en": "Mar. 7, 2024"},
+      "url": ""
+    }
+  ]
+}

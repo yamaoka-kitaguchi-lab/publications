@@ -1,0 +1,66 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "21101",
+    "name": { "ja": "片岡 秀斗", "en": "Shuto KATAOKA" },
+      "title": {"ja": "分岐あり2段リンクにおける準最適HBHファイル配送スケジューリング", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2022年3月10日", "en": "Mar. 10, 2022"},
+      "url": ""
+    },
+    {
+      "id": "21102",
+      "name": {"ja": "湯田 孟", "en": "Hajime YUDA"},
+      "title": {"ja": "実環境応用へのMECのマルチジョブ棄却率最適制御閾値補正", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2022年3月11日", "en": "Mar. 11, 2022"},
+      "url": ""
+    },
+    {
+      "id": "21103",
+     "name": {"ja": "内藤 碩治", "en": "Mitsuharu NAITO"},
+      "title": {"ja": "誤り耐性を考慮した受信者代弁型情報伝送プロトコルのブースト効果達成環境", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2022年3月11日", "en": "Mar. 11, 2022"},
+      "url": ""
+    },
+    {
+      "id": "21104",
+    "name": { "ja": "片岡 秀斗", "en": "Shuto KATAOKA" },
+      "title": {"ja": "2段リンクHBHファイル配送スケジューリングの同帯域2リンク分岐への拡張", "en": ""},
+      "conference": {"ja": "IEICE 総合大会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "オンライン", "en": ""},
+      "date": {"ja": "2022年3月15日", "en": "Mar. 15, 2022"},
+      "url": ""
+    }
+  ]
+}

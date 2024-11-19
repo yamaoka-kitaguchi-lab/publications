@@ -1,0 +1,31 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "journal": {"ja": "論文誌名", "en": "Journal"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "vol": {"ja": "ボリューム", "en": "Volume"},
+    "no": {"ja": "ナンバー", "en": "No"},
+    "pp": {"ja": "ページ", "en": "Page"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "21301",
+      "name": {"ja": "宮 太地", "en": "Taichi Miya"},
+      "title": {"ja": "", "en": "Autonomous Gateway Mobility Control for Heterogeneous Drone Swarms: Link Stabilizer and Path Optimizer"},
+      "coresearcher": [
+        {"ja": "大島 浩太", "en": "Kohta Ohshima"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "vol": "E105-B",
+      "no": "4",
+      "pp": "432-448",
+      "date": {"ja": "2022", "en": "2022"},
+      "url": ""
+    }
+  ]
+}
