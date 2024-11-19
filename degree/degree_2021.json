@@ -39,6 +39,21 @@
         { "ja": "", "en": "" }
       ],
       "url": ""
+    },
+    {
+      "id": "21002",
+      "degree": { "ja": "学士", "en": "Bachelor" },
+      "name": { "ja": "森田 隼人", "en": "Hayato MORITA" },
+      "title": {
+        "ja": "複数パケット日和見再送(OR-M)による高BDP環境MPTCPのスループット改善効果",
+        "en": ""
+      },
+      "supervisor": { "ja": "北口 善明", "en": "Yoshiaki KITAGUCHI" },
+      "previous": { "ja": "", "en": "" },
+      "tag": [
+        { "ja": "", "en": "" }
+      ],
+      "url": ""
     }
   ]
 }
