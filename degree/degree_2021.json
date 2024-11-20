@@ -48,7 +48,7 @@
         "ja": "複数パケット日和見再送(OR-M)による高BDP環境MPTCPのスループット改善効果",
         "en": ""
       },
-      "supervisor": { "ja": "北口 善明", "en": "Yoshiaki KITAGUCHI" },
+      "supervisor": {"ja": "山岡 克式", "en": "Katsunori YAMAOKA"},
       "previous": { "ja": "", "en": "" },
       "tag": [
         { "ja": "", "en": "" }
