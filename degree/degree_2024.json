@@ -1,0 +1,59 @@
+{
+  "label": {
+    "id": { "ja": "ID", "en": "ID" },
+    "degree": { "ja": "学位", "en": "Degree" },
+    "name": { "ja": "名前", "en": "Name" },
+    "title": { "ja": "題目", "en": "Title" },
+    "supervisor": { "ja": "指導教員", "en": "Supervior" },
+    "previous": { "ja": "先行研究者", "en": "Previous Research" },
+    "tag": { "ja": "タグ", "en": "Tag" },
+    "url": { "ja": "URL", "en": "URL" }
+  },
+  "students": [
+    {
+      "id": "24001",
+      "degree": { "ja": "修士", "en": "Master" },
+      "name": { "ja": "大坪 正樹", "en": "Masaki OTSUBO" },
+      "title": {
+        "ja": "ビット列位置の識別子を利用した受信者代弁型情報伝送プロトコルの誤り検知手法",
+        "en": ""
+      },
+      "supervisor": { "ja": "山岡 克式", "en": "Katsunori YAMAOKA" },
+      "previous": { "ja": "内藤 碩治", "en": "Mitsuharu NAITO" },
+      "tag": [
+        { "ja": "", "en": "" }
+      ],
+      "url": ""
+    },
+    {
+      "id": "24002",
+      "degree": { "ja": "修士", "en": "Master" },
+      "name": { "ja": "在間 哲平", "en": "Teppei ZAIMA" },
+      "title": {
+        "ja": "待機キューを用いたマルチジョブ棄却率最適制御方式",
+        "en": ""
+      },
+      "supervisor": { "ja": "山岡 克式", "en": "Katsunori YAMAOKA" },
+      "previous": { "ja": "湯田 孟", "en": "Hajime YUDA" },
+      "tag": [
+        { "ja": "", "en": "" }
+      ],
+      "url": ""
+    },
+    {
+      "id": "24003",
+      "degree": { "ja": "修士", "en": "Master" },
+      "name": { "ja": "和氣 智慶", "en": "Tomoyoshi WAKI" },
+      "title": {
+        "ja": "任意ペイロードサイズに対する確率近似を用いた有限状態数VoIPトラヒックモデル",
+        "en": ""
+      },
+      "supervisor": { "ja": "山岡 克式", "en": "Katsunori YAMAOKA" },
+      "previous": { "ja": "", "en": "" },
+      "tag": [
+        { "ja": "", "en": "" }
+      ],
+      "url": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "conference": {"ja": "会議名", "en": "Conference"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "location": {"ja": "場所", "en": "Location"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "25101",
+      "name": { "ja": "大坪 正樹", "en": "Masaki OTSUBO" },
+      "title": {"ja": "ビット列位置の識別子を利用した受信者代弁型情報伝送プロトコルの誤り検知手法", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄産業支援センター", "en": ""},
+      "date": {"ja": "2025年3月7日", "en": "Mar. 7, 2025"},
+      "url": ""
+    },
+    {
+      "id": "25102",
+      "name": { "ja": "在間 哲平", "en": "Teppei ZAIMA" },
+      "title": {"ja": "待機キューを用いたマルチジョブの確率的閾値による最適収容制御方式", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄産業支援センター", "en": ""},
+      "date": {"ja": "2025年3月7日", "en": "Mar. 7, 2025"},
+      "url": ""
+    },
+    {
+      "id": "25103",
+      "name": { "ja": "和氣 智慶", "en": "Tomoyoshi WAKI" },
+      "title": {"ja": "任意ペイロードサイズに対する確率近似を用いた有限状態数VoIPトラヒックモデル", "en": ""},
+      "conference": {"ja": "IEICE 情報ネットワーク研究会", "en": ""},
+      "coresearcher": [
+        {"ja": "宮田 純子", "en": "Sumiko Miyata"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "location": {"ja": "沖縄産業支援センター", "en": ""},
+      "date": {"ja": "2025年3月7日", "en": "Mar. 7, 2025"},
+      "url": ""
+    }
+  ]
+}

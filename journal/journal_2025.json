@@ -1,0 +1,33 @@
+{
+  "label": {
+    "id": {"ja": "ID", "en": "ID"},
+    "name": {"ja": "名前", "en": "Name"},
+    "title": {"ja": "題目", "en": "Title"},
+    "journal": {"ja": "論文誌名", "en": "Journal"},
+    "coresearcher": {"ja": "共同研究者", "en": "Co-researcher"},
+    "vol": {"ja": "ボリューム", "en": "Volume"},
+    "no": {"ja": "ナンバー", "en": "No"},
+    "pp": {"ja": "ページ", "en": "Page"},
+    "date": {"ja": "日付", "en": "Date"},
+    "url": {"ja": "URL", "en": "URL"}
+  },
+  "students": [
+    {
+      "id": "25301",
+      "name": { "ja": "和氣 智慶", "en": "Tomoyoshi WAKI" },
+      "title": {"ja": "", "en": "Finite-State VoIP Traffic Model for Variable Voice Payload Size"},
+      "coresearcher": [
+        {"ja": "宮田 純子", "en": "Sumiko Miyata"},
+        {"ja": "北口 善明", "en": "Yoshiaki Kitaguchi"},
+        {"ja": "馬場 健一", "en": "Ken-ichi Baba"},
+        {"ja": "山岡 克式", "en": "Katsunori Yamaoka"}
+      ],
+      "journal": {"ja": "IEICE Transactions on Communications", "en": "IEICE Transactions on Communications"},
+      "vol": "E108-B",
+      "no": "5",
+      "pp": "1-10",
+      "date": {"ja": "2025", "en": "2025"},
+      "url": ""
+    }
+  ]
+}
